@@ -5,7 +5,7 @@ pages_build_output_dir = "./"
 # 绑定kv
 [[kv_namespaces]]
 binding = "img_url"
-id = "965c04ff1d6c4f57bfda16d5424ae629"
+id = "6462abdc69b74304b02702a568c19454"
 
 # R2 绑定
 [[r2_buckets]]
